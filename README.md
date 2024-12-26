@@ -1,1 +1,3 @@
 # Arise-Scaling
+
+arisescaling.shop
